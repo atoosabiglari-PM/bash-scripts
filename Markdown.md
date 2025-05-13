@@ -42,7 +42,7 @@ Workers
 #### This One Is for Hyperlink and Image
 [My Favorite Site is X Recently](https://x.com/atoosabiglari)
 
-![I took This Image 3 Years Ago](Palo Alto Lake.jpg)
+![I taken This Image 3 Years Ago](Palo_Alto_Lake.jpg)
 
 ##### This Is a Blockquote
 > This is my first blockquote on the page
