@@ -1,10 +1,12 @@
 # This Is The Master Line 
 # I Insert A Table
-|Cloumn 1 |Column 2|
-|.........|........|
-|Row 1    |Row2    |
-|Row 1    |Row2    |
-|Row 1    |Row2    |
+## I Insert A Table
+
+| Column 1 | Column 2 |
+|----------|----------|
+| Row 1    | Row 2    |
+| Row 1    | Row 2    |
+| Row 1    | Row 2    |
 
 ## This Line Is for Scripting Styles
 1. Now I can have an Italic
