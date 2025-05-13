@@ -1,4 +1,10 @@
-# This Is The Master Line
+# This Is The Master Line 
+# I Insert A Table
+|Cloumn 1 |Column 2|
+|.........|........|
+|Row 1    |Row2    |
+|Row 1    |Row2    |
+|Row 1    |Row2    |
 
 ## This Line Is for Scripting Styles
 1. Now I can have an Italic
@@ -51,5 +57,7 @@ Workers
 ```html
 <h1>This is a practice to add this to git</h1>
 <p>This is a practice to add this to git</p>
+
+
 
 
